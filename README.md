@@ -1,16 +1,15 @@
-## Hi there 👋
+# こんにちは！コウキです 👋
+プログラミング vscodeで勉強中
 
-<!--
-**kouki201210/kouki201210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
+はじめまして！GitHubで自己紹介ページを作ってみました。好きなことを形にするのが好きです。
 
-Here are some ideas to get you started:
+## 好きなこと・趣味
+* 🎮 ゲーム・音楽鑑賞
+* 💻 HTML / CSS・プログラミング
+* 🎨 イラスト制作
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 相互リンク 🔗
+* [〇〇さんのサイト](https://友達のユーザー名1.github.io)
+* [△△さんのホームページ](https://友達のユーザー名2.github.io)
+* これはgeminiによって作成されコウキによって公開されました
